@@ -1,0 +1,23 @@
+_repo: The-Bryd_64063
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Loomis, Noel M.
+    alias: Loomis, Noel Miller
+    birthdate: 1905
+    deathdate: 1969
+    gutenberg_agent_id: '35155'
+    url: http://www.gutenberg.org/2009/agents/35155
+description: ''
+gutenberg_issued: '2020-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64063'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Bryd
+url: http://www.gutenberg.org/ebooks/64063
